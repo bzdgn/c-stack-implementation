@@ -15,3 +15,5 @@ Popped element: 45
 Popped element: 30
 Popped element: 15
 
+Compiled with GCC Version: gcc (GCC) 5.2.0
+On Windows 10
